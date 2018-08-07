@@ -1,0 +1,14 @@
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\bin\Debug\Demo.Dominio.Testes.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\bin\Debug\Demo.Dominio.Testes.pdb
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\bin\Debug\Castle.Core.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\bin\Debug\Demo.Dominio.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\bin\Debug\Moq.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\bin\Debug\Demo.Dominio.pdb
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\bin\Debug\Castle.Core.xml
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\bin\Debug\Moq.xml
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\obj\Debug\Demo.Dominio.Testes.csprojAssemblyReference.cache
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\obj\Debug\Demo.Dominio.Testes.csproj.CoreCompileInputs.cache
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\obj\Debug\Demo.Dominio.Testes.csproj.CopyComplete
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\obj\Debug\Demo.Dominio.Testes.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio.Testes\obj\Debug\Demo.Dominio.Testes.pdb

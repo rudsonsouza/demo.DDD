@@ -1,0 +1,17 @@
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\Demo.Infra.Repositorio.dll.config
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\Demo.Infra.Repositorio.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\Demo.Infra.Repositorio.pdb
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\Demo.Dominio.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\Demo.Dominio.pdb
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\obj\Debug\Demo.Infra.Repositorio.csprojAssemblyReference.cache
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\obj\Debug\Demo.Infra.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\obj\Debug\Demo.Infra.Repositorio.csproj.CopyComplete
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\obj\Debug\Demo.Infra.Repositorio.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Infra.Repositorio\obj\Debug\Demo.Infra.Repositorio.pdb

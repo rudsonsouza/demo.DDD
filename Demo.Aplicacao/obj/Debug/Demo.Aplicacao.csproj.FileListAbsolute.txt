@@ -1,0 +1,12 @@
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\bin\Debug\Demo.Aplicacao.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\bin\Debug\Demo.Aplicacao.pdb
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\bin\Debug\Demo.Dominio.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\bin\Debug\Demo.Dominio.pdb
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\obj\Debug\Demo.Aplicacao.csprojAssemblyReference.cache
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\obj\Debug\Demo.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\obj\Debug\Demo.Aplicacao.csproj.CopyComplete
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\obj\Debug\Demo.Aplicacao.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Aplicacao\obj\Debug\Demo.Aplicacao.pdb

@@ -1,0 +1,5 @@
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio\bin\Debug\Demo.Dominio.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio\bin\Debug\Demo.Dominio.pdb
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio\obj\Debug\Demo.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio\obj\Debug\Demo.Dominio.dll
+C:\Users\Rudson.souza\Downloads\demo-arquitetura-master\demo-arquitetura-master\Demo.Dominio\obj\Debug\Demo.Dominio.pdb
